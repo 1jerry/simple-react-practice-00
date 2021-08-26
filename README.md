@@ -1,2 +1,2 @@
-# simple-react-practice-01
-Created with CodeSandbox
+# simple-react-practice-00
+base for starting simple react sandbox
